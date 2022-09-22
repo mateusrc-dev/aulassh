@@ -2,6 +2,6 @@
 
 This stage I learning:
 
-> Git init 
-> Git add and commit chances
-> show commit log
+- Git init 
+- Git add and commit chances
+- show commit log
